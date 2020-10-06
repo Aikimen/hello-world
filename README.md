@@ -1,2 +1,2 @@
 # hello-world
-Test repository for learning github!
+Test repository for learning GitHub!
